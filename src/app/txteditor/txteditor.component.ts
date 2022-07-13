@@ -12,4 +12,6 @@ export class TxteditorComponent implements OnInit {
   ngOnInit(): void {
   }
 
+  ckeditorText = "Bu matn TypeScript'dan uzatildi!"
+
 }
